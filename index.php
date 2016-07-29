@@ -1,8 +1,7 @@
 <?php
 
-// v23kjh,mn,m,mnnn,mn,mn
+// v23kjh
 
 $hi = 1;
-$g = 0;
 
 ?>
